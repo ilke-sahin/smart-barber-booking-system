@@ -99,3 +99,4 @@ The system adopts a containerized deployment strategy for scalability.
 ## 👥 Contributors
 * **Tolga Ertunç** (B2280.060052) 
 * **İlke Görkem Şahin** (B2180.060042)
+* **Mustafa Buğra Boz** (B2180.060028) 
